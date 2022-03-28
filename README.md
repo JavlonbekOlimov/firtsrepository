@@ -1,0 +1,2 @@
+# firtsrepository
+birinchi git
